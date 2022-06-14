@@ -10,9 +10,10 @@ Tennis prediction software utilizing various machine learning techniques to gain
 
 
 ### How to use the repository
-Clone the repo with `git clone https://github.com/hatemets/tennis-prediction`
-Navigate to the repo with `cd tennis-prediction/`
-Run `tar -zxvf matches.tar.gz` to get the necessary csv files
+- Clone the repo with `git clone https://github.com/hatemets/tennis-prediction`
+- Navigate to the repo with `cd tennis-prediction/`
+- Run `tar -zxvf matches.tar.gz` to get the necessary csv files
+- Open the Jupyter Notebook and inside it, open the file `tennis_predictor.ipynb`
 
 #### After updating the codebase
 For converting the data file to tar, run
